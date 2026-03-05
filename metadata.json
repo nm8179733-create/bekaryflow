@@ -1,0 +1,7 @@
+{
+  "name": "BakeryFlow",
+  "description": "A high-performance business management app for high-volume bakeries. Track daily sales, supplier payments, and real-time profit/loss with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
